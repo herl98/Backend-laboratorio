@@ -1,0 +1,2 @@
+PORT=[Aqui agregar el puerto]
+MONGO_URI=mongodb+srv://[Agregar usuario del db]:[Agregar contraseña del db]@[Agregar clouster].axngqy3.mongodb.net/[Agregar nombre de la db]=[agregar clouster]
