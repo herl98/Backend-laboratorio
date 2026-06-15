@@ -18,7 +18,12 @@ const UsuarioSchema = new Schema(
       required: true,
     },
 
-    apellidos: {
+    apellido_paterno: {
+      type: String,
+      required: true,
+    },
+
+    apellido_materno: {
       type: String,
       required: true,
     },
